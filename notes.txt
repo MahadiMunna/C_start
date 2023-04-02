@@ -1,4 +1,8 @@
 # If u want to print backslash then you have to give \\. same to percentage.
 # \n for new line
 # // for single line comment and /* for multiline comment.
-# \t for tab that means 4space
+# \t for tab that means 4space\
+# Format specifier:
+    int - %d
+    float - %f
+    char - %c
