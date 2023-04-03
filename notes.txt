@@ -6,3 +6,24 @@
     int - %d
     float - %f
     char - %c
+# Variable declare:
+    dataType variableName;
+# Variable take memory in RAM/temporary memory.
+# Int type date take 4byte
+# 1kb = 1024byte
+# To declare decimal point limit use %0.2f. Here 2 for 2 decimal point.
+
+#To take input from user use scanf("") function.example:
+    scanf("%d",&number);
+    here, %d for formate specifier and & for addressing memory location of that variable.
+# 1bit = 0 / 1
+    1byte = 8bit;
+# int limitation 4byte that means 32bit.(-10 power 9 to +10 power 9)
+# long long int 8byte that means 64 bit(-10 power 18 to +10 power 18). Format specifier %lld
+#float can print upto 4 decimal point, to make it more use double which formate specifier is %lf.
+#double can give correct value upto 16digt.
+
+#varibale naming convention:
+1. must start with letter or _(underscore).
+2. can contain only letter, digit or underscore.
+3. key words can't be variables.
